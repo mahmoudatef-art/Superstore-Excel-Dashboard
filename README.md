@@ -47,7 +47,8 @@ Superstore Sales dataset from Kaggle. The dataset contains sales data only (no p
 4. The map needs an internet connection (Bing Maps)
 
 ## Author
-Mahmoud Atef Mustafa
+Mahmoud Atef Mustafa 
+
 LinkedIn: https://www.linkedin.com/in/mahmoud-atef-031aa2404/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm5uF4ZAhSh%2Bj%2Bt5cVWsA6A%3D%3D
 
 My Protofilo: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fmahmoudatef-art.github.io&urlhash=gfaG&mt=X1jog1i25P3Ml-9hujWqobmrZEYChvlSknQEMtIK-ebf65K73vINkGX52S3MrKdZjl7bBFIbvq8h785GIIhHSoLXMNJVc-MHy4hP-5qwr8zs4BUaneXo_aPogmBZZXatFCLHLUxzGtIcwEeJAgPD0_baNY0jJYhLZbPPCtNAS8lqgreeB0f2LPKi_u81Qg&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BORowmO%2ByTsSprXCyjqz7nQ%3D%3D
